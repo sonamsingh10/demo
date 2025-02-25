@@ -1,5 +1,5 @@
 # demo
 This is my first Git repository
 <br>
-Author - Sonam kumari
+Author - Sonam (singh)
 
